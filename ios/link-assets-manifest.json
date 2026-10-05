@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/src/assets/fonts/BungeeTint-Regular.ttf",
+      "sha1": "32dc50b143eccadd007488ca31a5b69f2c643d01"
+    },
+    {
+      "path": "app/src/assets/fonts/Silkscreen.ttf",
+      "sha1": "2c657df52b512897d8118d46a8d9ce2ac08191e5"
+    }
+  ]
+}

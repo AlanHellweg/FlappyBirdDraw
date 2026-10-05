@@ -1,0 +1,160 @@
+import * as React from "react";
+import Svg, { Defs, Pattern, Rect } from "react-native-svg";
+
+const ConfigIconDark = () => {
+  return (
+    <Svg viewBox="0 0 800 800" preserveAspectRatio="xMidYMid slice">
+      <Defs>
+        <Pattern id="pppixelate-pattern" width="800" height="800" patternUnits="userSpaceOnUse">
+          <Rect width="40" height="40" x="360" y="80" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="400" y="80" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="120" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="360" y="120" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="120" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="120" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="240" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="360" y="160" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="160" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="560" y="160" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="200" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="200" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="200" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="200" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="200" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="240" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="240" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="240" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="280" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="240" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="280" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="400" y="280" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="440" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="280" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="280" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="120" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="440" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="480" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="320" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="640" y="320" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="80" y="360" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="120" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="160" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="200" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="360" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="480" y="360" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="640" y="360" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="680" y="360" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="80" y="400" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="120" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="160" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="200" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="400" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="480" y="400" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="640" y="400" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="680" y="400" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="120" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="440" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="480" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="440" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="640" y="440" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="480" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="240" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="480" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="400" y="480" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="440" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="480" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="480" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="520" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="320" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="520" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="520" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="520" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="160" y="560" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="240" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="280" y="560" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="360" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="480" y="560" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="560" y="560" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="600" y="560" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="200" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="240" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="360" y="600" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="600" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="520" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="560" y="600" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="320" y="640" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="360" y="640" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="400" y="640" fill="hsl(0, 0%, 75%)" />
+          <Rect width="40" height="40" x="440" y="640" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="360" y="680" fill="hsl(0, 0%, 100%)" />
+          <Rect width="40" height="40" x="400" y="680" fill="hsl(0, 0%, 100%)" />
+        </Pattern>
+      </Defs>
+      <Rect width="100%" height="100%" fill="url(#pppixelate-pattern)"></Rect>
+    </Svg>
+  );
+};
+
+export default ConfigIconDark;
